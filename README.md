@@ -28,5 +28,5 @@ Integrantes:
 
 ## Instrucciones para probar la aplicación
 
-1. Descarga la carpeta `src` desde el repositorio y abrirla.
+1. Descargar la carpeta `src` desde el repositorio y abrirla.
 3. Dentro de la carpeta `src`, ejecutar el archivo `wxWallet.exe` para iniciar la aplicación.
