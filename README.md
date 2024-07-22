@@ -17,8 +17,16 @@ Integrantes:
 - **Gestión de Balances**: Permite gestionar y visualizar tanto balances totales como individuales por moneda.
 - **Ordenamiento de Balances**: Permite ordenar los balances por cantidad más alta/baja, nombre u otros criterios.
 
+### App
 
-## Instrucciones para Probar la Aplicación
+![Inicio](images/Inicio_wxWallet.png)
+
+![Home](images/Princpial_wxWallet.png)
+
+![Detalles de Transacción](images/Fondos_wxWallet.png)
+
+
+## Instrucciones para probar la aplicación
 
 1. Descarga la carpeta `src` desde el repositorio y abrirla.
 3. Dentro de la carpeta `src`, ejecutar el archivo `wxWallet.exe` para iniciar la aplicación.
