@@ -8,3 +8,17 @@ Integrantes:
 
 - Rodriguez, Lautaro
 - Rufiner, Santiago
+
+
+## Funcionalidades
+
+- **Carga de Monedas**: Los usuarios pueden cargar diferentes monedas en la aplicación.
+- **Envío y Recepción de Dinero**: Permite enviar/recibir dinero dentro de la aplicación.
+- **Gestión de Balances**: Permite gestionar y visualizar tanto balances totales como individuales por moneda.
+- **Ordenamiento de Balances**: Permite ordenar los balances por cantidad más alta/baja, nombre u otros criterios.
+
+
+## Instrucciones para Probar la Aplicación
+
+1. Descarga la carpeta `src` desde el repositorio y abrirla.
+3. Dentro de la carpeta `src`, ejecutar el archivo `wxWallet.exe` para iniciar la aplicación.
