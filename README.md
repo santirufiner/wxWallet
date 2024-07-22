@@ -15,7 +15,7 @@ Integrantes:
 - **Carga de Monedas**: Los usuarios pueden cargar diferentes monedas en la aplicación.
 - **Envío y Recepción de Dinero**: Permite enviar/recibir dinero dentro de la aplicación.
 - **Gestión de Balances**: Permite gestionar y visualizar tanto balances totales como individuales por moneda.
-- **Ordenamiento de Balances**: Permite ordenar los balances por cantidad más alta/baja, nombre u otros criterios.
+- **Ordenamiento de Balances y Transacciones**: Permite ordenar los balances por cantidad (mayor a menor, menor a mayor), nombre de la moneda (A a Z, Z a A), y las transacciones por fecha, monto o motivo (A a Z, Z a A).
 
 ### App
 
