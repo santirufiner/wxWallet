@@ -1,4 +1,4 @@
-# WX Wallet
+# wxWallet
 
 ## Descripción
 
